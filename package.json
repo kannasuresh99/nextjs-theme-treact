@@ -1,0 +1,44 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@svgr/webpack": "^5.5.0",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/user-event": "^7.1.2",
+    "feather-icons": "^4.26.0",
+    "framer-motion": "^1.10.2",
+    "next": "^10.0.9",
+    "next-images": "^1.7.0",
+    "react": "^16.13.1",
+    "react-anchor-link-smooth-scroll": "^1.0.12",
+    "react-dom": "^16.13.1",
+    "react-modal": "^3.11.2",
+    "react-rnd": "^10.1.9",
+    "react-slick": "^0.25.2",
+    "slick-carousel": "^1.8.1",
+    "styled-components": "^5.0.1",
+    "use-in-view": "^1.0.15"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.13.10",
+    "@babel/node": "^7.13.12",
+    "@babel/preset-env": "^7.13.12",
+    "autoprefixer": "^10.2.5",
+    "babel-plugin-inline-react-svg": "^2.0.1",
+    "babel-plugin-macros": "^2.8.0",
+    "babel-plugin-styled-components": "^1.12.0",
+    "next-transpile-modules": "^6.4.0",
+    "nodemon": "^2.0.7",
+    "postcss": "^8.2.8",
+    "react-is": "^16.13.1",
+    "tailwindcss": "^2.0.4",
+    "twin.macro": "^2.3.1"
+  }
+}
