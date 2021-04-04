@@ -1,6 +1,6 @@
 The react version of this theme is available at https://treact.owaiskhan.me/.
 
-I downloaded it has react theme and converted it into a Nextjs theme.
+I downloaded it as a react theme and converted it into a Nextjs theme.
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
